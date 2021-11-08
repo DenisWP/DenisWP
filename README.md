@@ -1,4 +1,4 @@
-Meu nome é Denis, QA e apaixonado pela área de testes. Em constante reciclagem para assimilar novos conhecimentos e aprimorar práticas em automação de testes.
+Meu nome é Denis, QA e apaixonado pela área de testes. Em constante reciclagem para assimilar novos conhecimentos.
 
 Hobbies: Música, Esporte, Corrida, Natureza 🌳 ...
 
